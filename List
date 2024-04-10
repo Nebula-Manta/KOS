@@ -1,11 +1,16 @@
 {
-  "KOS":[
-    {"Player":"Failure",
-      "Reason":"Existing"
-    },
-    {"Player":"Failure Numba 2",
-      "Reason":"Also existing..."
-    }
-    
-  ]
+    "KOS": [
+        {
+            "Player": "Failure",
+            "Reason": "Existing"
+        },
+        {
+            "Player": "Failure Numba 2",
+            "Reason": "Also existing..."
+        },
+        {
+            "Player": "Bro_pwn3d",
+            "Reason": "failure!"
+        }
+    ]
 }
