@@ -1,10 +1,10 @@
 {
   "KOS":[
-    {"Player":"Me",
-      "Reason":"Bad"
+    {"Player":"Failure",
+      "Reason":"Existing"
     },
-    {"Player":"You",
-      "Reason":"Bad"
+    {"Player":"Failure Numba 2",
+      "Reason":"Also existing..."
     }
     
   ]
