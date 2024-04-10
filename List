@@ -1,2 +1,11 @@
-Hello, World!
-This is the updated content.
+{
+  "KOS":[
+    {"Player":"Me",
+      "Reason":"Bad"
+    },
+    {"Player":"You",
+      "Reason":"Bad"
+    }
+    
+  ]
+}
